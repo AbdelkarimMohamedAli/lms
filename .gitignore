@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/storage
+/storage/*.key
+/Homestead.json
+/Homestead.yaml
+/composer.phar
+/composer.lock
+/env.example
+/env.local
+/env.*.php
+/_ide_helper.php
+/.idea
